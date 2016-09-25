@@ -1,0 +1,198 @@
+<!-- WEAPONS -->
+
+<animSheet name="laser_dual" w="216" h="52" fw="18" fh="52">weapons/laser_dual_strip12.png</animSheet>
+<animSheet name="laser_pierce_1" w="324" h="61" fw="27" fh="61">weapons/laser_pierce_1_strip12.png</animSheet>
+<animSheet name="laser_hull_1" w="264" h="67" fw="22" fh="67">weapons/laser_hull_1_strip12.png</animSheet>
+<animSheet name="laser_hull_2" w="288" h="67" fw="24" fh="67">weapons/laser_hull_2_strip12.png</animSheet>
+<animSheet name="missiles_1" w="72" h="45" fw="24" fh="45">weapons/missiles_1_strip3.png</animSheet>
+<animSheet name="missiles_2" w="75" h="49" fw="25" fh="49">weapons/missiles_2_strip3.png</animSheet>
+<animSheet name="missiles_3" w="81" h="57" fw="27" fh="57">weapons/missiles_3_strip3.png</animSheet>
+<animSheet name="missiles_burst_1" w="81" h="49" fw="27" fh="49">weapons/missiles_burst_1_strip3.png</animSheet>
+<animSheet name="missiles_breach" w="75" h="49" fw="25" fh="49">weapons/missiles_breach_strip3.png</animSheet>
+<animSheet name="missiles_hull" w="75" h="57" fw="25" fh="57">weapons/missiles_hull_strip3.png</animSheet>
+
+<weaponAnim name="laser_dual">
+	<sheet>laser_dual</sheet>
+	<desc length="12" x="0" y="0"/>
+	<chargedFrame>5</chargedFrame>
+	<fireFrame>8</fireFrame>
+	<firePoint  x="12" y="16"/>
+	<mountPoint x="2" y="35"/>
+</weaponAnim>
+
+<weaponAnim name="laser_pierce_1">
+	<sheet>laser_pierce_1</sheet>
+	<desc length="12" x="0" y="0"/>
+	<chargedFrame>5</chargedFrame>
+	<fireFrame>8</fireFrame>
+	<firePoint  x="17" y="10"/>
+	<mountPoint x="3" y="44"/>
+	<chargeImage>weapons/laser_pierce_1_glow.png</chargeImage>
+</weaponAnim>
+
+<weaponAnim name="laser_hull_1">
+	<sheet>laser_hull_1</sheet>
+	<desc length="12" x="0" y="0"/>
+	<chargedFrame>5</chargedFrame>
+	<fireFrame>8</fireFrame>
+	<firePoint  x="16" y="7"/>
+	<mountPoint x="5" y="47"/>
+	<!--<chargeImage>weapons/laser_hull_glow.png</chargeImage>-->
+</weaponAnim>
+
+<weaponAnim name="laser_hull_2">
+	<sheet>laser_hull_2</sheet>
+	<desc length="12" x="0" y="0"/>
+	<chargedFrame>5</chargedFrame>
+	<fireFrame>8</fireFrame>
+	<firePoint  x="16" y="7"/>
+	<mountPoint x="5" y="47"/>
+	<!--<chargeImage>weapons/laser_hull_glow.png</chargeImage>-->
+</weaponAnim>
+
+<weaponAnim name="missiles_1">
+	<sheet>missiles_1</sheet>
+	<desc length="3" x="0" y="0"/>
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>2</fireFrame>
+	<firePoint  x="15" y="20"/>
+	<mountPoint x="3" y="30"/>
+	<chargeImage>weapons/missiles_1_glow.png</chargeImage>
+</weaponAnim>
+
+<weaponAnim name="missiles_2">
+	<sheet>missiles_2</sheet>
+	<desc length="3" x="0" y="0"/>
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>2</fireFrame>
+	<firePoint  x="16" y="20"/>
+	<mountPoint x="3" y="34"/>
+	<chargeImage>weapons/missiles_2_glow.png</chargeImage>
+</weaponAnim>
+
+<weaponAnim name="missiles_3">
+	<sheet>missiles_3</sheet>
+	<desc length="3" x="0" y="0"/>
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>2</fireFrame>
+	<firePoint  x="16" y="15"/>
+	<mountPoint x="3" y="42"/>
+	<chargeImage>weapons/missiles_3_glow.png</chargeImage>
+</weaponAnim>
+
+<weaponAnim name="missiles_burst_1">
+	<sheet>missiles_burst_1</sheet>
+	<desc length="3" x="0" y="0"/>
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>2</fireFrame>
+	<firePoint  x="16" y="20"/>
+	<mountPoint x="3" y="34"/>
+	<chargeImage>weapons/missiles_burst_1_glow.png</chargeImage>
+</weaponAnim>
+
+<weaponAnim name="missiles_breach">
+	<sheet>missiles_breach</sheet>
+	<desc length="3" x="0" y="0"/>
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>2</fireFrame>
+	<firePoint  x="15" y="20"/>
+	<mountPoint x="3" y="34"/>
+	<chargeImage>weapons/missiles_breach_glow.png</chargeImage>
+</weaponAnim>
+
+<weaponAnim name="missiles_hull">
+	<sheet>missiles_hull</sheet>
+	<desc length="3" x="0" y="0"/>
+	<chargedFrame>1</chargedFrame>
+	<fireFrame>2</fireFrame>
+	<firePoint  x="16" y="28"/>
+	<mountPoint x="3" y="42"/>
+	<chargeImage>weapons/missiles_hull_glow.png</chargeImage>
+</weaponAnim>
+
+<!-- ACTUAL PROJECTILES -->
+
+<animSheet name="laser_weak" w="200" h="20" fw="50" fh="20">weapons/laser_weak_strip4.png</animSheet>
+<animSheet name="laser_strong" w="200" h="20" fw="50" fh="20">weapons/laser_strong_strip4.png</animSheet>
+<animSheet name="laser_green" w="200" h="20" fw="50" fh="20">weapons/laser_green_strip4.png</animSheet>
+<animSheet name="laser_green2" w="200" h="20" fw="50" fh="20">weapons/laser_green2_strip4.png</animSheet>
+<animSheet name="laser_drone" w="200" h="20" fw="50" fh="20">weapons/laser_drone_strip4.png</animSheet>
+<animSheet name="laser_hull" w="200" h="20" fw="50" fh="20">weapons/laser_hull_strip4.png</animSheet>
+<animSheet name="laser_hull2" w="200" h="20" fw="50" fh="20">weapons/laser_hull2_strip4.png</animSheet>
+<animSheet name="missile_1" w="256" h="80" fw="32" fh="80">weapons/missile_1_strip8.png</animSheet>
+<animSheet name="missile_2" w="256" h="80" fw="32" fh="80">weapons/missile_2_strip8.png</animSheet>
+<animSheet name="missile_3" w="256" h="80" fw="32" fh="80">weapons/missile_3_strip8.png</animSheet>
+<animSheet name="missile_breach" w="256" h="80" fw="32" fh="80">weapons/missile_breach_strip8.png</animSheet>
+<animSheet name="missile_hull" w="256" h="80" fw="32" fh="80">weapons/missile_hull_strip8.png</animSheet>
+
+<anim name="laser_weak">
+	<sheet>laser_weak</sheet>
+	<desc length="4" x="0" y="0"/>
+	<time>0.5</time>
+</anim>
+
+<anim name="laser_strong">
+	<sheet>laser_strong</sheet>
+	<desc length="4" x="0" y="0"/>
+	<time>0.5</time>
+</anim>
+
+<anim name="laser_green">
+	<sheet>laser_green</sheet>
+	<desc length="4" x="0" y="0"/>
+	<time>0.5</time>
+</anim>
+
+<anim name="laser_green2">
+	<sheet>laser_green2</sheet>
+	<desc length="4" x="0" y="0"/>
+	<time>0.5</time>
+</anim>
+
+<anim name="laser_drone">
+	<sheet>laser_drone</sheet>
+	<desc length="4" x="0" y="0"/>
+	<time>0.5</time>
+</anim>
+
+<anim name="laser_hull">
+	<sheet>laser_hull</sheet>
+	<desc length="4" x="0" y="0"/>
+	<time>0.5</time>
+</anim>
+
+<anim name="laser_hull2">
+	<sheet>laser_hull2</sheet>
+	<desc length="4" x="0" y="0"/>
+	<time>0.5</time>
+</anim>
+
+<anim name="missile_1">
+	<sheet>missile_1</sheet>
+	<desc length="8" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<anim name="missile_2">
+	<sheet>missile_2</sheet>
+	<desc length="8" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<anim name="missile_3">
+	<sheet>missile_3</sheet>
+	<desc length="8" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<anim name="missile_breach">
+	<sheet>missile_breach</sheet>
+	<desc length="8" x="0" y="0"/>
+	<time>1</time>
+</anim>
+
+<anim name="missile_hull">
+	<sheet>missile_hull</sheet>
+	<desc length="8" x="0" y="0"/>
+	<time>1</time>
+</anim>
