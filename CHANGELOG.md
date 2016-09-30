@@ -1,3 +1,16 @@
+**Ver. 0.5 (2016-09-30)**
+
+- Code:
+  - Remove unused weapon blueprints in blueprints.xml.append
+  - Add a metadata.xml file
+
+- Graphics:
+  - Revert Heavy Laser II projectile to vanilla
+  - New projectile for Heavy Laser I
+  - New weapon colors for Halberd Beam and Glaive Beam
+  - New beam colors for Halberd Beam and Glaive Beam
+  - Better contrast for Hull Laser I & II projectiles
+
 **Ver. 0.4 (2016-09-25)**
 
 - Code:

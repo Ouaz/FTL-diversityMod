@@ -114,8 +114,7 @@
 
 <animSheet name="laser_weak" w="200" h="20" fw="50" fh="20">weapons/laser_weak_strip4.png</animSheet>
 <animSheet name="laser_strong" w="200" h="20" fw="50" fh="20">weapons/laser_strong_strip4.png</animSheet>
-<animSheet name="laser_green" w="200" h="20" fw="50" fh="20">weapons/laser_green_strip4.png</animSheet>
-<animSheet name="laser_green2" w="200" h="20" fw="50" fh="20">weapons/laser_green2_strip4.png</animSheet>
+<animSheet name="laser_heavy0" w="200" h="20" fw="50" fh="20">weapons/laser_heavy0_strip4.png</animSheet>
 <animSheet name="laser_drone" w="200" h="20" fw="50" fh="20">weapons/laser_drone_strip4.png</animSheet>
 <animSheet name="laser_hull" w="200" h="20" fw="50" fh="20">weapons/laser_hull_strip4.png</animSheet>
 <animSheet name="laser_hull2" w="200" h="20" fw="50" fh="20">weapons/laser_hull2_strip4.png</animSheet>
@@ -137,14 +136,8 @@
 	<time>0.5</time>
 </anim>
 
-<anim name="laser_green">
-	<sheet>laser_green</sheet>
-	<desc length="4" x="0" y="0"/>
-	<time>0.5</time>
-</anim>
-
-<anim name="laser_green2">
-	<sheet>laser_green2</sheet>
+<anim name="laser_heavy0">
+	<sheet>laser_heavy0</sheet>
 	<desc length="4" x="0" y="0"/>
 	<time>0.5</time>
 </anim>

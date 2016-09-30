@@ -1,0 +1,68 @@
+<metadata>
+
+  <title><![CDATA[ diversityMod ]]></title>
+
+  <threadUrl><![CDATA[ http://www.ftlgame.com/forum/viewtopic.php?f=11&t=29975 ]]></threadUrl>
+
+  <author><![CDATA[ Ouaz ]]></author>
+
+  <version><![CDATA[ 0.5 (Sep 30, 2016]]></version>
+
+
+  <description>
+<![CDATA[
+This graphical mod replaces redundant weapon icons and projectiles by new ones, which makes easier the visual differentiation between weapons and their respective damage powers in game. 
+
+Changelog:
+
+0.5
+Code:
+- Remove unused weapon blueprints in blueprints.xml.append
+- Add metadata.xml file
+
+Graphics:
+- Revert Heavy Laser II projectile to vanilla
+- New projectile for Heavy Laser I
+- New weapon colors for Halberd Beam and Glaive Beam
+- New beam colors for Halberd Beam and Glaive Beam
+- Better contrast for Hull Laser I & II projectiles
+
+0.4
+
+Code:
+- Remove remaining chunks of code of non-vanilla weapons (Ion Missile and Burst Laser IV)
+- Update all weapons stats/values (outdated, missing, or modified by v0.3) to vanilla state
+- Now fully compatible with the Advanced Edition
+
+Graphics:
+- Revert Heavy Laser I art to vanilla and use the new art for Heavy Pierce weapon instead
+- Reimplement vanilla projectiles alongside the new projectiles, for an easier weapon power visual differentiation
+- New projectiles for Hull Laser I & II
+
+Bugfixes:
+- Fix some weapon/projectile animation codes.
+]]>
+  </description>
+
+  <!--
+    Suggestions for the description...
+
+    Write a short paragraph about the mod's effect first (what style ship,
+    how does it affect gameplay). No need to introduce yourself.
+
+    Optionally add a paragraph of background flavor.
+
+    Optionally list important features.
+
+    List any concerns about mod compatibility, preferred order, or
+    requirements.
+
+    Mention "Replaces the XYZ ship." if relevant.
+      Kestrel-A, Stealth-A, Mantis-A,
+      Engi-A,    Fed-A,     Slug-A,
+      Rock-A,    Zoltan-A,  Crystal-A
+
+    Above all, keep the description general, so you won't have to edit
+    that again for each new version.
+  -->
+</metadata>

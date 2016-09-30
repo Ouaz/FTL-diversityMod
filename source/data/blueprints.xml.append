@@ -81,44 +81,6 @@
 	</missSounds>
 	<weaponArt>laser_dual</weaponArt> 
 </weaponBlueprint>
-
-<weaponBlueprint name="LASER_BURST_2_A">
-	<type>LASER</type>
-	<title>Burst Laser Mark I</title>
-	<short>Burst Laser I</short>
-	<tip>tip_laser</tip>
-	<desc>This simple burst laser isn't flashy but it gets the job done.</desc>
-	<tooltip>Shoots 2 lasers that do 1 damage each.</tooltip>
-	<damage>1</damage>
-	<shots>2</shots>
-	<sp>0</sp>
-	<fireChance>1</fireChance>
-	<breachChance>0</breachChance>
-	<cooldown>11</cooldown>
-	<power>2</power>
-	<cost>50</cost>
-	<bp>4</bp>
-	<rarity>1</rarity>
-	<image>laser_light1</image>
-	<launchSounds>
-		<sound>lightLaser1</sound>
-		<sound>lightLaser2</sound>
-		<sound>lightLaser3</sound>
-	</launchSounds>
-	<hitShipSounds>
-		<sound>hitHull2</sound>
-		<sound>hitHull3</sound>
-	</hitShipSounds>
-	<hitShieldSounds>
-		<sound>hitShield1</sound>
-		<sound>hitShield2</sound>
-		<sound>hitShield3</sound>
-	</hitShieldSounds>
-	<missSounds>
-		<sound>miss</sound>
-	</missSounds>
-	<weaponArt>laser_burst_2</weaponArt> 
-</weaponBlueprint>
  
  <weaponBlueprint name="LASER_BURST_3">
 	<type>LASER</type>
@@ -158,44 +120,6 @@
 	<weaponArt>laser_burst_3</weaponArt> 
 </weaponBlueprint>
 
-<weaponBlueprint name="LASER_BURST_5">
-	<type>LASER</type>
-	<title>Burst Laser Mark III</title>
-	<short>Burst L. III</short>
-	<tip>tip_laser</tip>
-	<desc>Powerful burst laser that fires off an impressive barrage.</desc>
-	<tooltip>Fires 5 lasers, 1 damage per shot.</tooltip>-->
-	<damage>1</damage>
-	<shots>5</shots>
-	<sp>0</sp>
-	<fireChance>0</fireChance>
-	<breachChance>0</breachChance>
-	<cooldown>19</cooldown>
-	<power>4</power>
-	<cost>95</cost>  <!--was 110-->
-	<bp>10</bp>
-	<rarity>4</rarity>
-	<image>laser_light2</image>
-	<launchSounds>
-		<sound>lightLaser1</sound>
-		<sound>lightLaser2</sound>
-		<sound>lightLaser3</sound>
-	</launchSounds>
-	<hitShipSounds>
-		<sound>hitHull2</sound>
-		<sound>hitHull3</sound>
-	</hitShipSounds>
-	<hitShieldSounds>
-		<sound>hitShield1</sound>
-		<sound>hitShield2</sound>
-		<sound>hitShield3</sound>
-	</hitShieldSounds>
-	<missSounds>
-		<sound>miss</sound>
-	</missSounds>
-	<weaponArt>laser_burst_5</weaponArt> 
-</weaponBlueprint>
-
 <!--------------
 	HEAVY LASERS
  -------------->
@@ -217,7 +141,7 @@
 	<cost>50</cost> <!-- was 55-->
 	<bp>6</bp>
 	<rarity>2</rarity>
-	<image>laser_green</image>
+	<image>laser_heavy0</image>
 	<launchSounds>
 		<sound>heavyLaser1</sound>
 		<sound>heavyLaser2</sound>
@@ -235,45 +159,6 @@
 		<sound>miss</sound>
 	</missSounds>
 	<weaponArt>laser_heavy_1</weaponArt> 
-	<iconImage>heavyL</iconImage>
-</weaponBlueprint>
-
-<weaponBlueprint name="LASER_HEAVY_2">
-	<type>LASER</type>
-	<title>Heavy Laser Mark II</title>
-	<short>Heavy Laser II</short>
-	<tip>tip_laser</tip>
-	<desc>This heavy laser fires two shots in quick succession, each dealing 2 damage.</desc>
-	<tooltip>Fires 2 heavy lasers, 2 damage each with low chance of fire and breaching.</tooltip>
-	<damage>2</damage>
-	<shots>2</shots>
-	<sp>0</sp>
-	<fireChance>3</fireChance>
-	<breachChance>3</breachChance>
-	<stunChance>2</stunChance>
-	<cooldown>13</cooldown>
-	<power>3</power>
-	<cost>65</cost>  <!--was 75-->
-	<bp>10</bp>
-	<rarity>4</rarity>
-	<image>laser_green2</image>
-	<launchSounds>
-		<sound>heavyLaser1</sound>
-		<sound>heavyLaser2</sound>
-		<sound>heavyLaser3</sound>
-	</launchSounds>
-	<hitShipSounds>
-		<sound>hitHull1</sound>
-	</hitShipSounds>
-	<hitShieldSounds>
-		<sound>hitShield1</sound>
-		<sound>hitShield2</sound>
-		<sound>hitShield3</sound>
-	</hitShieldSounds>
-	<missSounds>
-		<sound>miss</sound>
-	</missSounds>
-	<weaponArt>laser_heavy_2</weaponArt> 
 	<iconImage>heavyL</iconImage>
 </weaponBlueprint>
 
@@ -549,6 +434,73 @@
 	</missSounds>
 	<weaponArt>missiles_breach</weaponArt> 
 </weaponBlueprint>
+
+<!--------------
+	BEAM WEAPONS
+ -------------->
+ 
+<weaponBlueprint name="BEAM_2">
+	<type>BEAM</type>
+	<tip>tip_beams</tip>
+	<title>Halberd Beam</title>
+	<short>Halberd Beam</short>
+	<desc>Slow but reliably powerful standard beam weapon.</desc>
+	<tooltip>Beam weapon, 2 damage per room.</tooltip>
+	<!--<desc>Power Req: 3    A powerful but slow beam that deals 2 damage in a short line with a low chance of breaches.</desc>-->
+	<damage>2</damage>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<cooldown>17</cooldown>
+	<color> <!-- Color only works for beams -->
+		<r>255</r>
+		<g>255</g>
+		<b>8</b>
+	</color>
+	<power>3</power>
+	<cost>65</cost> <!--was 70-->
+	<bp>7</bp>
+	<rarity>2</rarity>
+	<length>80</length>
+	<image>beam_contact</image>
+	<launchSounds>
+		<sound>beam2</sound>
+	</launchSounds>
+	<weaponArt>beam_2</weaponArt> 
+	<iconImage>beam</iconImage>
+</weaponBlueprint>
+
+<weaponBlueprint name="BEAM_3">
+	<type>BEAM</type>
+	<title>Glaive Beam</title>
+	<short>Glaive Beam</short>
+	<tip>tip_beams</tip>
+	<desc>One of the most powerful weapons of war ever created. Known to take out some ships in a single blast.</desc>
+	<tooltip>Large beam that does 3 damage per room.</tooltip>
+	<!--<desc>Power Req: 4    A very powerful beam weapon that cuts through ships like butter.   Deals 3 damage in a line.</desc>-->
+	<damage>3</damage>
+	<sp>0</sp>
+	<fireChance>0</fireChance>
+	<breachChance>0</breachChance>
+	<cooldown>25</cooldown>
+	<color> <!-- Color only works for beams -->
+		<r>255</r>
+		<g>255</g>
+		<b>8</b>
+	</color>
+	<power>4</power>
+	<cost>95</cost> <!--was 120-->
+	<bp>12</bp>
+	<rarity>5</rarity>
+	<length>80</length>
+	<image>beam_contact</image>
+	<launchSounds>
+		<sound>beam2</sound>
+	</launchSounds>
+	<weaponArt>beam_3</weaponArt> 
+	<iconImage>beam</iconImage>
+</weaponBlueprint>
+ 
 
 <!--------------
 	HULL SMASHER WEAPONS
