@@ -29,3 +29,12 @@ Thanks to:
 - liakad who created the original content of diversityMod.
 - alextfish and Istarune who created an almost clean version (graphical mod only)
 - herbert who listed partially the remaining errors and vanilla values still modified by the previous mod version.
+
+# Other FTL Mods
+
+Check other FTL mods [here](https://github.com/Ouaz/FTL-diversityMod/blob/master/other/OTHER.md):
+
+- HighRes Backgrounds & Planets 2.0
+- Shiny! Combat UI 1.0
+- Extra Names Mod 1.2
+- Extended Pursuit Indicator x2 1.1
