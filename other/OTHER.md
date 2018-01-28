@@ -8,7 +8,7 @@ This graphical mod replaces the planets and backgrounds with higher quality vers
 
 ![HighRes Backgrounds & Planets](https://raw.githubusercontent.com/Ouaz/FTL-diversityMod/master/other/samples/highres_screen0.jpg)
 
-Check the [official topic](http://www.ftlgame.com/forum/viewtopic.php?t=30003) on FTL forums for further informations.
+Check the [official topic](http://www.subsetgames.com/forum/viewtopic.php?t=30003) on FTL forums for further informations.
 
 **Download**  
 You can download the mod by clicking [here](https://github.com/Ouaz/FTL-diversityMod/raw/master/other/HighRes_Backgrounds_and_Planets_2.0.ftl).
@@ -20,7 +20,7 @@ You can download the mod by clicking [here](https://github.com/Ouaz/FTL-diversit
 
 Latest version: 1.0 (Oct 1, 2016)
 
-Take the Combat UI overhaul from Russian Rockman's [Shiny! UI Overhaul and Graphics Mod v1.0](http://www.ftlgame.com/forum/viewtopic.php?t=25839), to make a standalone mod.
+Take the Combat UI overhaul from Russian Rockman's [Shiny! UI Overhaul and Graphics Mod v1.0](http://www.subsetgames.com/forum/viewtopic.php?t=25839), to make a standalone mod.
 The mod redesigns the combat box and adds some transparency to it: the background image is now visible, for a nice visual effect.
 
 ![Shiny! Combat UI](https://raw.githubusercontent.com/Ouaz/FTL-diversityMod/master/other/samples/highres_screen1.jpg)
@@ -49,7 +49,7 @@ You can download the mod by clicking [here](https://github.com/Ouaz/FTL-diversit
 
 Latest version: 1.2 (Oct 1, 2016)
 
-Based on IcarusTyler [Extra Names Mod](http://www.ftlgame.com/forum/viewtopic.php?t=3293) idea, but this version uses the names.xml file from the Captain's Edition Mod, with over 1800 different names (gender parity: 50% male, 50% female)
+Based on IcarusTyler [Extra Names Mod](http://www.subsetgames.com/forum/viewtopic.php?t=3293) idea, but this version uses the names.xml file from the Captain's Edition Mod, with over 1800 different names (gender parity: 50% male, 50% female)
 
 **Download**  
 You can download the mod by clicking [here](https://github.com/Ouaz/FTL-diversityMod/raw/master/other/Extra_Names_Mod_1.2.ftl).
