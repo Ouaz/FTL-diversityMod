@@ -1,9 +1,9 @@
 # Set of graphicals mods for Faster Than Light
 
-## List of mods
-- [diversityMod 0.5](https://github.com/Ouaz/FTL-diversityMod/blob/master/README.md#diversitymod-0-5) / [Download](https://github.com/Ouaz/FTL-diversityMod/raw/master/diversityMod_0.5.ftl) / [Forum](http://www.subsetgames.com/forum/viewtopic.php?f=11&t=29975) / [Changelog](https://github.com/Ouaz/FTL-diversityMod/blob/master/CHANGELOG.md#diversitymod-0-5)
+### List of mods
+- **diversityMod 0.5** : [Details](https://github.com/Ouaz/FTL-diversityMod#diversitymod-05) / [Download](https://github.com/Ouaz/FTL-diversityMod/raw/master/diversityMod_0.5.ftl) / [Changelog](https://github.com/Ouaz/FTL-diversityMod/blob/master/CHANGELOG.md#diversitymod-05) / [Forum](http://www.subsetgames.com/forum/viewtopic.php?f=11&t=29975)
 
-To install a mod, use [Slipstream Mod Manager](http://www.subsetgames.com/forum/viewtopic.php?f=12&t=17102). 
+To install a mod, use [Slipstream Mod Manager](http://www.subsetgames.com/forum/viewtopic.php?f=12&t=17102).
 Version 1.9.1 is mandatory to install mods on FTL 1.6.1+.
 
 ## diversityMod 0.5
@@ -12,7 +12,7 @@ This mod for Faster Than Light is purely cosmetic and replaces redundant weapon 
 
 <details>
 <summary>Screenshot</summary>
-<img src="https://raw.githubusercontent.com/Ouaz/FTL-diversityMod/master/FTL-diversityMod.gif">
+<img src="https://raw.githubusercontent.com/Ouaz/FTL-diversityMod/master/FTL-diversityMod.png">
 </details>
 
 Based on [FTL diversity Mod 0.3](http://www.subsetgames.com/forum/viewtopic.php?f=11&t=3363) by liakad (then improved successively by [alextfish](http://www.subsetgames.com/forum/viewtopic.php?f=11&t=3363&start=20#p21807) and [Istarune](http://www.subsetgames.com/forum/viewtopic.php?f=11&t=3363&start=30#p23888)), this new mod version updates all outdated, missing, or modified weapons stats/values to vanilla state, and removes non-vanilla weapons code existing in v0.3.
