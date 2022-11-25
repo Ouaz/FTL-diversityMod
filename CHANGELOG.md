@@ -1,3 +1,13 @@
+# diversityMod 0.5
+
+Latest version: Nov 25th, 2022
+
+**Update November 2022**
+
+- Code:
+  - Compatibility with FTL 1.6.1+ to support any language.
+  - The mod is not compatible anymore with FTL 1.5.x.
+
 **Ver. 0.5 (2016-09-30)**
 
 - Code:
