@@ -1,19 +1,3 @@
-# HighRes Backgrounds & Planets
-
-- By Splette, Sanmonku and Ouaz
-
-Latest version: 2.0 (Oct 9, 2016)
-
-This graphical mod replaces the planets and backgrounds with higher quality versions, trying to stay as close as possible to the original subjects. It also adds a couple of new visuals and modify some others (mix between Splette's High-res Backround Graphics 1.0 and Sanmonku's Better Planets and Backgrounds Mod).
-
-![HighRes Backgrounds & Planets](https://raw.githubusercontent.com/Ouaz/FTL-diversityMod/master/other/samples/highres_screen0.jpg)
-
-Check the [official topic](http://www.subsetgames.com/forum/viewtopic.php?t=30003) on FTL forums for further informations.
-
-**Download**  
-You can download the mod by clicking [here](https://github.com/Ouaz/FTL-diversityMod/raw/master/other/HighRes_Backgrounds_and_Planets_2.0.ftl).
-  
-  
 # Shiny! Combat UI
 
 - By Russian Rockman, compiled by Ouaz

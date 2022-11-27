@@ -1,8 +1,6 @@
 # diversityMod 0.5
 
-Latest version: Nov 25th, 2022
-
-**Update November 2022**
+**Latest update: Nov 25th, 2022**
 
 - Code:
   - Compatibility with FTL 1.6.1+ to support any language.
@@ -35,3 +33,25 @@ Latest version: Nov 25th, 2022
  
 - Bugfixes:
   - Fix some weapon/projectile animation codes.
+  
+# HighRes Backgrounds & Planets V2.0
+  
+**Latest update: Nov 27th, 2022**
+
+- Change .xml extension to .xml.append
+- Fix warnings about image type after validation in Slipstream Mod Manager
+- Replace one new nebula background that didn't look good in-game
+
+**2.0 (2016-Oct-09)**
+
+- Improve Populated Planets images by adding array of lights on their dark sides
+- Implement Sanmonku's best additions from Better Planets and Backgrounds Mod (only one Hubble and one Xandra, but plenty of his beautiful artworks)
+- Modify color balance and contrast on most of the nebula backgrounds to add diversity
+- Modify some backgrounds to better match FTL's original backgrounds
+- Implement Scooterbaga's replacers for Pulsar, Gas Planet Rings, and Techmoon images
+- Add a new title screen
+- Fix the UTF-8 BOM encoding causing a warning in Slipstream Mod Manager
+
+**1.0 (2012-Sep-28)**
+
+- Initial release
