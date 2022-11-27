@@ -2,7 +2,7 @@
 
 ### List of mods
 - **diversityMod 0.5** : [Download](https://github.com/Ouaz/FTL-diversityMod/raw/master/diversityMod_0.5.ftl) / [Details](https://github.com/Ouaz/FTL-diversityMod#diversitymod-05) / [Changelog](https://github.com/Ouaz/FTL-diversityMod/blob/master/CHANGELOG.md#diversitymod-05) / [Forum](http://www.subsetgames.com/forum/viewtopic.php?f=11&t=29975)
-- **HighRes Backgrounds & Planets V2.0** : [Download](https://github.com/Ouaz/FTL-diversityMod/blob/master/other/HighRes_Backgrounds_and_Planets_2.0.ftl) / [Details](https://github.com/Ouaz/FTL-diversityMod#highres-backgrounds--planets-v20) / [Changelog](https://github.com/Ouaz/FTL-diversityMod/blob/master/CHANGELOG.md#highres-backgrounds--planets-v20) / [Forum](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=30003)
+- **HighRes Backgrounds & Planets V2.0** : [Download](https://github.com/Ouaz/FTL-diversityMod/raw/master/other/HighRes_Backgrounds_and_Planets_2.0.ftl) / [Details](https://github.com/Ouaz/FTL-diversityMod#highres-backgrounds--planets-v20) / [Changelog](https://github.com/Ouaz/FTL-diversityMod/blob/master/CHANGELOG.md#highres-backgrounds--planets-v20) / [Forum](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=30003)
 
 To install a mod, use [Slipstream Mod Manager](http://www.subsetgames.com/forum/viewtopic.php?f=12&t=17102).
 Version 1.9.1 is mandatory to install mods on FTL 1.6.1+.
@@ -21,6 +21,7 @@ Fully compatible with FTL 1.6.1+ to support any language. Not compatible anymore
 <details>
 <summary>Credits</summary>
 Thanks to:
+
 - liakad who created the original content of diversityMod.
 - alextfish and Istarune who created an almost clean version (graphical mod only)
 - herbert who listed partially the remaining errors and vanilla values still modified by the previous mod version.
@@ -42,6 +43,7 @@ This graphical mod replaces the planets and backgrounds with higher quality vers
 <details>
 <summary>Credits</summary>
 Thanks to:
+
 - Splette, for his High-Res Background Graphics Mod
 - Sanmonku, for his Better Planets and Backgrounds Mod
 - Sanmonku again, for his awesome space art backgrounds (visit his DevianArt: sanmonku.deviantart.com)
