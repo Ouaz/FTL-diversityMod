@@ -42,7 +42,7 @@
 - Fix warnings about image type after validation in Slipstream Mod Manager
 - Replace one new nebula background that didn't look good in-game
 
-**2.0 (2016-Oct-09)**
+**2.0 (2016-10-09)**
 
 - Improve Populated Planets images by adding array of lights on their dark sides
 - Implement Sanmonku's best additions from Better Planets and Backgrounds Mod (only one Hubble and one Xandra, but plenty of his beautiful artworks)
@@ -52,6 +52,18 @@
 - Add a new title screen
 - Fix the UTF-8 BOM encoding causing a warning in Slipstream Mod Manager
 
-**1.0 (2012-Sep-28)**
+**1.0 (2012-09-28)**
 
 - Initial release
+
+# Shiny Combat UI 2.0
+
+**2.0 (2022-11-28)**
+- Combat box redesign for compatibility with FTL 1.6.1+
+- Compatible with any language
+- Slightly redesign the enemy hull bar
+- Not compatible with FTL 1.5.x
+
+**1.0 (2016-10-01)**
+- Initial release
+- Only compatible with FTL 1.5.x (still downloadable [here](https://github.com/Ouaz/FTL-diversityMod/raw/master/other/Shiny_Combat_UI.ftl)).

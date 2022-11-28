@@ -1,8 +1,8 @@
 # Set of graphicals mods for Faster Than Light
 
-### List of mods
 - **diversityMod 0.5** : [Download](https://github.com/Ouaz/FTL-diversityMod/raw/master/diversityMod_0.5.ftl) / [Details](https://github.com/Ouaz/FTL-diversityMod#diversitymod-05) / [Changelog](https://github.com/Ouaz/FTL-diversityMod/blob/master/CHANGELOG.md#diversitymod-05) / [Forum](http://www.subsetgames.com/forum/viewtopic.php?f=11&t=29975)
 - **HighRes Backgrounds & Planets V2.0** : [Download](https://github.com/Ouaz/FTL-diversityMod/raw/master/other/HighRes_Backgrounds_and_Planets_2.0.ftl) / [Details](https://github.com/Ouaz/FTL-diversityMod#highres-backgrounds--planets-v20) / [Changelog](https://github.com/Ouaz/FTL-diversityMod/blob/master/CHANGELOG.md#highres-backgrounds--planets-v20) / [Forum](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=30003)
+- **Shiny Combat UI 2.0** : [Download](https://github.com/Ouaz/FTL-diversityMod/raw/master/other/Shiny_Combat_UI_2.0.ftl) / [Details](https://github.com/Ouaz/FTL-diversityMod#shiny-combat-ui-20) / [Changelog](https://github.com/Ouaz/FTL-diversityMod/blob/master/CHANGELOG.md#shiny-combat-ui-20) / [Forum](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=25839)
 
 To install a mod, use [Slipstream Mod Manager](http://www.subsetgames.com/forum/viewtopic.php?f=12&t=17102).
 Version 1.9.1 is mandatory to install mods on FTL 1.6.1+.
@@ -34,7 +34,7 @@ This graphical mod replaces the planets and backgrounds with higher quality vers
 ![HighRes Backgrounds & Planets](https://raw.githubusercontent.com/Ouaz/FTL-diversityMod/master/other/samples/highres_screen0.jpg)
 
 <details>
-<summary>Screenshot</summary>
+<summary>Screenshots</summary>
 <img src="https://raw.githubusercontent.com/Ouaz/FTL-diversityMod/master/other/samples/highres_screen1.jpg">
 <img src="https://raw.githubusercontent.com/Ouaz/FTL-diversityMod/master/other/samples/highres_screen2.jpg">
 <img src="https://raw.githubusercontent.com/Ouaz/FTL-diversityMod/master/other/samples/highres_screen3.jpg">
@@ -53,10 +53,23 @@ Thanks to:
 - Nasa, for three nebula backgrounds (from Hubble and Xandra)
 </details>
 
+## Shiny Combat UI 2.0
+
+Based on Russian Rockman's [Shiny! UI Overhaul and Graphics Mod v1.0](http://www.subsetgames.com/forum/viewtopic.php?t=25839), this mod redesigns the combat box (bigger viewport) and adds some transparency to it: the background image is now visible, for a nice visual effect.
+Fully compatible with FTL 1.6.1+ to support any language.
+
+![Shiny Combat UI 2.0](https://raw.githubusercontent.com/Ouaz/FTL-diversityMod/master/other/samples/shiny_combat1.jpg)
+![Shiny Combat UI 2.0](https://raw.githubusercontent.com/Ouaz/FTL-diversityMod/master/other/samples/shiny_combat2.jpg)
+
+<details>
+<summary>Credits</summary>
+Thanks to:
+
+- Russian Rockman for the transparent and redesigned hex grid asset.
+</details>
+
 # Other FTL Mods
 
 Check other FTL mods [here](https://github.com/Ouaz/FTL-diversityMod/blob/master/other/OTHER.md):
 
-- Shiny! Combat UI 1.0
 - Extra Names Mod 1.2
-- Extended Pursuit Indicator x2 1.1
