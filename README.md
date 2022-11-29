@@ -2,7 +2,7 @@
 
 - **diversityMod 0.5** : [Download](https://github.com/Ouaz/FTL-diversityMod/raw/master/diversityMod_0.5.ftl) / [Details](https://github.com/Ouaz/FTL-diversityMod#diversitymod-05) / [Changelog](https://github.com/Ouaz/FTL-diversityMod/blob/master/CHANGELOG.md#diversitymod-05) / [Forum](http://www.subsetgames.com/forum/viewtopic.php?f=11&t=29975)
 - **HighRes Backgrounds & Planets V2.0** : [Download](https://github.com/Ouaz/FTL-diversityMod/raw/master/other/HighRes_Backgrounds_and_Planets_2.0.ftl) / [Details](https://github.com/Ouaz/FTL-diversityMod#highres-backgrounds--planets-v20) / [Changelog](https://github.com/Ouaz/FTL-diversityMod/blob/master/CHANGELOG.md#highres-backgrounds--planets-v20) / [Forum](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=30003)
-- **Shiny Combat UI 2.0** : [Download](https://github.com/Ouaz/FTL-diversityMod/raw/master/other/Shiny_Combat_UI_2.0.ftl) / [Details](https://github.com/Ouaz/FTL-diversityMod#shiny-combat-ui-20) / [Changelog](https://github.com/Ouaz/FTL-diversityMod/blob/master/CHANGELOG.md#shiny-combat-ui-20) / [Forum](https://www.subsetgames.com/forum/viewtopic.php?f=11&t=25839)
+- **Shiny Combat UI 2.0** : [Download](https://github.com/Ouaz/FTL-diversityMod/raw/master/other/Shiny_Combat_UI_2.0.ftl) / [Details](https://github.com/Ouaz/FTL-diversityMod#shiny-combat-ui-20) / [Changelog](https://github.com/Ouaz/FTL-diversityMod/blob/master/CHANGELOG.md#shiny-combat-ui-20) / [Forum](https://subsetgames.com/forum/viewtopic.php?f=11&t=25839&start=110#p129783)
 
 To install a mod, use [Slipstream Mod Manager](http://www.subsetgames.com/forum/viewtopic.php?f=12&t=17102).
 Version 1.9.1 is mandatory to install mods on FTL 1.6.1+.
@@ -29,7 +29,8 @@ Thanks to:
 
 ## HighRes Backgrounds & Planets V2.0
 
-This graphical mod replaces the planets and backgrounds with higher quality versions, trying to stay as close as possible to the original subjects. It also adds a couple of new visuals and modify some others (mix between Splette's High-res Backround Graphics 1.0 and Sanmonku's Better Planets and Backgrounds Mod). Fully compatible with FTL 1.6.1+.
+This graphical mod replaces the planets and backgrounds with higher quality versions, trying to stay as close as possible to the original subjects.
+It also adds a couple of new visuals and modify some others (mix between Splette's High-res Backround Graphics 1.0 and Sanmonku's Better Planets and Backgrounds Mod). Fully compatible with FTL 1.6.1+.
 
 ![HighRes Backgrounds & Planets](https://raw.githubusercontent.com/Ouaz/FTL-diversityMod/master/other/samples/highres_screen0.jpg)
 
@@ -70,6 +71,7 @@ Thanks to:
 
 # Other FTL Mods
 
-Check other FTL mods [here](https://github.com/Ouaz/FTL-diversityMod/blob/master/other/OTHER.md):
+Check [other FTL graphical mods](https://github.com/Ouaz/FTL-diversityMod/blob/master/other/OTHER.md) created by the community:
 
+- Detailed Ship Greebles Graphics 1.1
 - Extra Names Mod 1.2
